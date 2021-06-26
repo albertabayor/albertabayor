@@ -10,7 +10,7 @@
 Hi, I'm Huda Damar, Frontend Web Developer from Indonesia.
 
 - 🍀 I’m currently learning Typescript and Design Pattern
-- ☕ My Stack frontend was used Vuejs and Tailwindcss
+- ☕ My stack frontend is using Vuejs and Tailwindcss
 
 <br/>
 
@@ -38,7 +38,7 @@ Hi, I'm Huda Damar, Frontend Web Developer from Indonesia.
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hudadamar21&repo=convert-image-to-ascii-art&title_color=41b883&icon_color=41b883&text_color=273849&bg_color=fffefe" />
 </a>
 <br />
-
+<br />
 <a href="https://github.com/hudadamar21/saxtile">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hudadamar21&repo=saxtile&title_color=41b883&icon_color=41b883&text_color=273849&bg_color=fffefe" />
 </a>
