@@ -1,12 +1,11 @@
 ## **Hello, I'm Huda Damar**
 ### [https://hudadamar21.netlify.app](https://hudadamar21.netlify.app) 👋
 
-<a href="https://facebook.com/hudasevanfold">
+<!-- <a href="https://facebook.com/hudasevanfold">
   <img align="left" alt="Huda Damar | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
+</a> -->
 
 <br />
-
 
 Hi, I'm Huda Damar, Frontend Web Developer from Indonesia.
 
@@ -28,20 +27,16 @@ Hi, I'm Huda Damar, Frontend Web Developer from Indonesia.
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=hudadamar21&show_icons=true&include_all_commits=true&theme=great-gatsby" alt="Anurag's github stats" />
 <br />
-<br />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hudadamar21&layout=compact&theme=great-gatsby" />
 
-<br />
 <br />
 <br />
 
 **Populer Repositories**
 
 <a href="https://github.com/hudadamar21/convert-image-to-ascii-art">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hudadamar21&repo=
-convert-image-to-ascii-art&theme=great-gatsby" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hudadamar21&repo=convert-image-to-ascii-art&theme=great-gatsby" />
 </a>
-<br />
 <br />
 <a href="https://github.com/hudadamar21/saxtile">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hudadamar21&repo=saxtile&theme=great-gatsby" />
