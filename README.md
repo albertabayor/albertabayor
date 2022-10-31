@@ -9,7 +9,7 @@
 
 Hi, I'm Huda Damar, Frontend Web Developer from Indonesia.
 
-- 🍀 I’m currently learning Static Site Generation and Gatsby
+- 🍀 I’m currently learning Flutter <span><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></span>
 - ☕ My stack frontend is using Vuejs and Tailwindcss
 
 <br/>
