@@ -28,17 +28,3 @@ Hi, I'm Huda Damar, Frontend Web Developer from Indonesia.
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=hudadamar21&show_icons=true&include_all_commits=true&title_color=41b883&icon_color=41b883&text_color=273849&bg_color=fffefe" alt="Huda Damar's github stats" />
 <br />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hudadamar21&layout=compact&title_color=41b883&icon_color=41b883&text_color=273849&bg_color=fffefe" />
-
-<br />
-<br />
-
-**Populer Repositories**
-
-<a href="https://github.com/hudadamar21/convert-image-to-ascii-art">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hudadamar21&repo=convert-image-to-ascii-art&title_color=41b883&icon_color=41b883&text_color=273849&bg_color=fffefe" />
-</a>
-<br />
-<br />
-<a href="https://github.com/hudadamar21/saxtile">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hudadamar21&repo=saxtile&title_color=41b883&icon_color=41b883&text_color=273849&bg_color=fffefe" />
-</a>
