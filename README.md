@@ -20,8 +20,6 @@ Hi, I'm Ade Nafil Firmansah, a Software Developer and Informatics student from I
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="Express.js"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" alt="Tailwind CSS"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="Flutter"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" alt="Dart"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"></code>
 
@@ -29,12 +27,10 @@ Hi, I'm Ade Nafil Firmansah, a Software Developer and Informatics student from I
 
 **My GitHub Stats**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adenafil&show_icons=true&include_all_commits=true&title_color=41b883&icon_color=41b883&text_color=273849&bg_color=fffefe&hide_border=true" alt="Ade Nafil Firmansah's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adenafil&layout=compact&title_color=41b883&icon_color=41b883&text_color=273849&bg_color=fffefe&hide_border=true" alt="Top Languages" />
-</p>
-
+<img src="https://github-readme-stats.vercel.app/api?username=adenafil&show_icons=true&include_all_commits=true&title_color=41b883&icon_color=41b883&text_color=273849&bg_color=fffefe&hide_border=true" alt="Ade Nafil Firmansah's GitHub Stats" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adenafil&layout=compact&title_color=41b883&icon_color=41b883&text_color=273849&bg_color=fffefe&hide_border=true" alt="Top Languages" />
 <!-- You can add other sections here, like:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
