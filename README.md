@@ -27,8 +27,7 @@ Hi, I'm Ade Nafil Firmansah, a Software Developer and Informatics student from I
 
 **My GitHub Stats**
 
-<img src="https://github-readme-stats.vercel.app/api?username=adenafil&show_icons=true&include_all_commits=true&title_color=41b883&icon_color=41b883&text_color=273849&bg_color=fffefe&hide_border=true" alt="Ade Nafil Firmansah's GitHub Stats" />
-[Ade's GitHub stats](https://github-readme-stats.vercel.app/api?username=adenafil&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=adenafil&show_icons=true&theme=radical" alt="Ade Nafil Firmansah's GitHub Stats" />
 <br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adenafil&layout=compact&title_color=41b883&icon_color=41b883&text_color=273849&bg_color=fffefe&hide_border=true" alt="Top Languages" />
 <!-- You can add other sections here, like:
