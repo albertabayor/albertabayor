@@ -4,8 +4,8 @@
 
 Hi, I'm Ade Nafil Firmansah, a Software Developer and Informatics student from Indonesia. I'm passionate about building innovative solutions and continuously exploring new technologies.
 
-- 🚀 I enjoy working on diverse projects, from web applications with Laravel and Nuxt.js to mobile apps with Flutter.
-- 💻 My primary tech stack includes **Laravel (PHP)**, **Vue.js (Nuxt)**, **TailwindCSS**, **ExpressJS**, and **Flutter**, and I'm proficient with databases like **MySQL**.
+- 🚀 I enjoy working on diverse projects, from web applications with Laravel and Nuxt.js.
+- 💻 My primary tech stack includes **Laravel (PHP)**, **Vue.js (Nuxt)**, **TailwindCSS** and **ExpressJS**, and I'm proficient with databases like **MySQL**, **SQLite**, and **PostgreSQL**.
 - 🌱 I'm always eager to learn and apply new skills to create impactful software.
 
 <br/>
