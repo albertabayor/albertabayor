@@ -1,8 +1,8 @@
-## **Hello, I'm Ade Nafil Firmansah**
+## **Hello, My Name Is Albert, You can call me albert or bayor 😉**
 
 <br />
 
-Hi, I'm Ade Nafil Firmansah, a Software Developer and Informatics student from Indonesia. I'm passionate about building innovative solutions and continuously exploring new technologies.
+Hi, I'm Albert A Bayor, a Software Developer and Informatics student. I'm passionate about building innovative solutions and continuously exploring new technologies.
 
 - 🚀 I enjoy working on diverse projects, from web applications with Laravel and Nuxt.js.
 - 💻 My primary tech stack includes **Laravel (PHP)**, **Vue.js (Nuxt)**, **TailwindCSS** and **ExpressJS**, and I'm proficient with databases like **MySQL**, **SQLite**, and **PostgreSQL**.
@@ -28,10 +28,10 @@ Hi, I'm Ade Nafil Firmansah, a Software Developer and Informatics student from I
 
 **My GitHub Stats**
 
-<img src="https://github-readme-stats.vercel.app/api?username=adenafil&show_icons=true&title_color=41b883&icon_color=41b883&text_color=273849&bg_color=fffefe&include_all_commits=true" alt="Ade Nafil Firmansah's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=albertabayor&show_icons=true&title_color=41b883&icon_color=41b883&text_color=273849&bg_color=fffefe&include_all_commits=true" alt="Albert A Bayor's GitHub Stats" />
 
 <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adenafil&layout=compact&title_color=41b883&icon_color=41b883&text_color=273849&bg_color=fffefe&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertabayor&layout=compact&title_color=41b883&icon_color=41b883&text_color=273849&bg_color=fffefe&hide_border=true" alt="Top Languages" />
 <!-- You can add other sections here, like:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
